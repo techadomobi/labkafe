@@ -98,15 +98,15 @@ export function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start gap-3 text-blue-100/70">
                 <Mail className="w-5 h-5 text-primary mt-0.5 shrink-0" />
-                <a href="mailto:sales@labkafe.com" className="hover:text-white transition-colors">sales@labkafe.com</a>
+                <a href="mailto:labscode@gmail.com" className="hover:text-white transition-colors">labscode@gmail.com</a>
               </li>
               <li className="flex items-start gap-3 text-blue-100/70">
                 <Phone className="w-5 h-5 text-primary mt-0.5 shrink-0" />
-                <a href="tel:+919147163562" className="hover:text-white transition-colors">+91 9147163562</a>
+                <a href="tel:+911234567899" className="hover:text-white transition-colors">+91 1234567899</a>
               </li>
               <li className="flex items-start gap-3 text-blue-100/70">
                 <MapPin className="w-5 h-5 text-primary mt-0.5 shrink-0" />
-                <span>207, 2nd Floor, Ambuja Eco Centre, Salt Lake Sector V, Kolkata - 700091</span>
+                <span>sector-2 gurugram, India</span>
               </li>
             </ul>
           </div>

@@ -78,25 +78,25 @@ export function CtaBanner() {
             {/* Contact info */}
             <div className="flex flex-col sm:flex-row gap-8 justify-center items-center">
               <a
-                href="mailto:sales@labkafe.com"
+                href="mailto:labscode@gmail.com"
                 data-testid="link-cta-email"
                 className="flex items-center gap-3 text-blue-200 hover:text-white transition-colors group"
               >
                 <div className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center group-hover:bg-primary transition-colors">
                   <Mail className="w-4 h-4" />
                 </div>
-                sales@labkafe.com
+                labscode@gmail.com
               </a>
               <div className="hidden sm:block w-px h-6 bg-white/20" />
               <a
-                href="tel:+919147163562"
+                href="tel:+911234567899"
                 data-testid="link-cta-phone"
                 className="flex items-center gap-3 text-blue-200 hover:text-white transition-colors group"
               >
                 <div className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center group-hover:bg-primary transition-colors">
                   <PhoneCall className="w-4 h-4" />
                 </div>
-                +91 9147163562
+                +91 1234567899
               </a>
             </div>
           </motion.div>

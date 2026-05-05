@@ -43,23 +43,23 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email Us",
-    value: "sales@labkafe.com",
-    href: "mailto:sales@labkafe.com",
+    value: "labscode@gmail.com",
+    href: "mailto:labscode@gmail.com",
     color: "bg-blue-50",
     iconColor: "text-primary",
   },
   {
     icon: Phone,
     label: "Call Us",
-    value: "+91 9147163562",
-    href: "tel:+919147163562",
+    value: "+91 1234567899",
+    href: "tel:+911234567899",
     color: "bg-indigo-50",
     iconColor: "text-indigo-500",
   },
   {
     icon: MapPin,
     label: "Our Office",
-    value: "207, 2nd Floor, Ambuja Eco Centre, Salt Lake Sector V, Kolkata - 700091",
+    value: "sector-2 gurugram, India",
     href: "#",
     color: "bg-emerald-50",
     iconColor: "text-emerald-600",
@@ -88,7 +88,7 @@ const contactChannels = [
     icon: Building2,
     title: "New Reseller Enquiry",
     description: "Interested in joining our program? Our business development team will guide you.",
-    contact: "sales@labkafe.com",
+    contact: "labscode@gmail.com",
     color: "from-indigo-400 to-purple-500",
     bg: "bg-indigo-50",
     iconColor: "text-indigo-500",
@@ -114,7 +114,7 @@ const contactChannels = [
 ];
 
 const officeLocations = [
-  { city: "Kolkata (HQ)", address: "207, 2nd Floor, Ambuja Eco Centre, Salt Lake Sector V, Kolkata - 700091", phone: "+91 9147163562" },
+  { city: "Kolkata (HQ)", address: "sector-2 gurugram, India", phone: "+91 1234567899" },
   { city: "Delhi NCR", address: "B-45, Sector 57, Noida, Uttar Pradesh - 201301", phone: "+91 9147163563" },
   { city: "Bengaluru", address: "12th Floor, Prestige Shantiniketan, Whitefield, Bengaluru - 560048", phone: "+91 9147163564" },
   { city: "Mumbai", address: "Unit 804, One BKC, Bandra Kurla Complex, Mumbai - 400051", phone: "+91 9147163565" },
@@ -124,7 +124,7 @@ const contactFaqs = [
   {
     question: "How quickly do you respond to enquiries?",
     answer:
-      "Our sales team responds to all enquiries within 24 business hours (Mon–Sat). For urgent matters you can call us directly at +91 9147163562 during business hours (9 AM – 6 PM IST).",
+      "Our sales team responds to all enquiries within 24 business hours (Mon–Sat). For urgent matters you can call us directly at +91 1234567899 during business hours (9 AM – 6 PM IST).",
   },
   {
     question: "I'm an existing reseller — how do I get partner support?",
@@ -134,7 +134,7 @@ const contactFaqs = [
   {
     question: "Can I visit the Labkafe office for a meeting?",
     answer:
-      "Yes, we welcome in-person meetings at any of our four offices (Kolkata, Delhi, Bengaluru, Mumbai). Please write to us at sales@labkafe.com to schedule a meeting and we'll arrange it within 3–5 business days.",
+      "Yes, we welcome in-person meetings at any of our four offices (Kolkata, Delhi, Bengaluru, Mumbai). Please write to us at labscode@gmail.com to schedule a meeting and we'll arrange it within 3–5 business days.",
   },
   {
     question: "Do you have regional offices outside of the four metros?",
@@ -149,7 +149,7 @@ const contactFaqs = [
   {
     question: "Can I get a product demo before deciding to partner?",
     answer:
-      "Absolutely. We offer online product demos for all major categories and in-person demo visits to our Kolkata and Delhi showrooms by appointment. Email sales@labkafe.com to book a demo session.",
+      "Absolutely. We offer online product demos for all major categories and in-person demo visits to our Kolkata and Delhi showrooms by appointment. Email labscode@gmail.com to book a demo session.",
   },
 ];
 
