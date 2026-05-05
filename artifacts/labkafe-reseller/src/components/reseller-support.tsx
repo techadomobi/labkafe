@@ -20,7 +20,7 @@ const supports = [
   {
     icon: BookOpen,
     title: "Product Training & Certification",
-    body: "Comprehensive product knowledge training for you and your team. Certified Labkafe resellers close 3x more deals on average.",
+    body: "Comprehensive product knowledge training for you and your team. Certified Labscode resellers close 3x more deals on average.",
     color: "from-indigo-400 to-purple-500",
     bg: "bg-indigo-50",
     iconColor: "text-indigo-500",
@@ -36,7 +36,7 @@ const supports = [
   {
     icon: Megaphone,
     title: "Co-Marketing & Collateral",
-    body: "Access Labkafe-branded brochures, presentations, product demos, and co-branded marketing assets to accelerate your sales.",
+    body: "Access Labscode-branded brochures, presentations, product demos, and co-branded marketing assets to accelerate your sales.",
     color: "from-orange-400 to-rose-400",
     bg: "bg-orange-50",
     iconColor: "text-orange-500",
@@ -79,7 +79,7 @@ export function ResellerSupport() {
               We're With You Every Step
             </h2>
             <p className="mt-5 text-muted-foreground text-lg max-w-2xl mx-auto">
-              Labkafe's reseller support ecosystem is built so you can focus on selling while we handle everything else.
+              Labscode's reseller support ecosystem is built so you can focus on selling while we handle everything else.
             </p>
           </motion.div>
         </div>

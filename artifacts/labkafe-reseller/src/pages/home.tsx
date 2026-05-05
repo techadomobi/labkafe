@@ -13,9 +13,9 @@ import { Footer } from "@/components/footer";
 
 const homeFaqs = [
   {
-    question: "What is the Labkafe Reseller Program?",
+    question: "What is the Labscode Reseller Program?",
     answer:
-      "The Labkafe Reseller Program is a business partnership that lets you sell premium laboratory products — furniture, equipment, and science programs — to schools, colleges, and institutions. You earn competitive margins on every sale without holding any inventory.",
+      "The Labscode Reseller Program is a business partnership that lets you sell premium laboratory products — furniture, equipment, and science programs — to schools, colleges, and institutions. You earn competitive margins on every sale without holding any inventory.",
   },
   {
     question: "Do I need prior experience in lab products to join?",
@@ -25,22 +25,22 @@ const homeFaqs = [
   {
     question: "What is the investment required to become a reseller?",
     answer:
-      "There is no upfront inventory investment. You simply register, get onboarded, and start selling. Labkafe handles all stock, fulfillment, and logistics — your only investment is your time and sales effort.",
+      "There is no upfront inventory investment. You simply register, get onboarded, and start selling. Labscode handles all stock, fulfillment, and logistics — your only investment is your time and sales effort.",
   },
   {
-    question: "How much can I earn as a Labkafe reseller?",
+    question: "How much can I earn as a Labscode reseller?",
     answer:
       "Earnings depend on your sales volume. Starter partners typically earn ₹10K–₹75K per month. Growth-stage resellers earn ₹75K–₹4L, and enterprise partners managing large territories can earn ₹4L+ per month. Your margins range from 10% to 25% depending on product category and volume.",
   },
   {
-    question: "What kind of support does Labkafe provide to its resellers?",
+    question: "What kind of support does Labscode provide to its resellers?",
     answer:
-      "Labkafe provides a dedicated reseller portal, 24/7 technical support, co-marketing materials, proposal writing assistance, product training, and access to a community of 500+ active partners. We handle delivery, installation, and after-sales service at client sites.",
+      "Labscode provides a dedicated reseller portal, 24/7 technical support, co-marketing materials, proposal writing assistance, product training, and access to a community of 500+ active partners. We handle delivery, installation, and after-sales service at client sites.",
   },
   {
-    question: "Can I get GeM authorization through Labkafe?",
+    question: "Can I get GeM authorization through Labscode?",
     answer:
-      "Yes. Labkafe is a GeM-authorized seller, and as our reseller partner you can leverage our GeM catalog to supply to government schools, colleges, and institutions. Our team assists you with the entire government procurement process.",
+      "Yes. Labscode is a GeM-authorized seller, and as our reseller partner you can leverage our GeM catalog to supply to government schools, colleges, and institutions. Our team assists you with the entire government procurement process.",
   },
   {
     question: "How long does the onboarding process take?",
@@ -50,7 +50,7 @@ const homeFaqs = [
   {
     question: "Is there a territory exclusivity for resellers?",
     answer:
-      "Yes, we offer territory protection to Growth and Enterprise tier partners. Once you establish a territory, no other Labkafe reseller can actively market in that area. Contact us to discuss territory options.",
+      "Yes, we offer territory protection to Growth and Enterprise tier partners. Once you establish a territory, no other Labscode reseller can actively market in that area. Contact us to discuss territory options.",
   },
 ];
 

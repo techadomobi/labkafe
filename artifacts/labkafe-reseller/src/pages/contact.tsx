@@ -79,7 +79,7 @@ const contactChannels = [
     icon: Headphones,
     title: "Partner Support",
     description: "For existing reseller partners — commission queries, order tracking, portal access.",
-    contact: "partners@labkafe.com",
+    contact: "partners@Labscode.com",
     color: "from-blue-400 to-primary",
     bg: "bg-blue-50",
     iconColor: "text-primary",
@@ -97,7 +97,7 @@ const contactChannels = [
     icon: Globe,
     title: "GeM & Government Sales",
     description: "Assistance with government tender bids, GeM listings, and institutional RFPs.",
-    contact: "gem@labkafe.com",
+    contact: "gem@Labscode.com",
     color: "from-emerald-400 to-teal-500",
     bg: "bg-emerald-50",
     iconColor: "text-emerald-600",
@@ -106,7 +106,7 @@ const contactChannels = [
     icon: ShieldCheck,
     title: "Technical Support",
     description: "Post-delivery installation, maintenance, and product warranty support.",
-    contact: "support@labkafe.com",
+    contact: "support@Labscode.com",
     color: "from-orange-400 to-rose-400",
     bg: "bg-orange-50",
     iconColor: "text-orange-500",
@@ -129,10 +129,10 @@ const contactFaqs = [
   {
     question: "I'm an existing reseller — how do I get partner support?",
     answer:
-      "Existing partners can reach the partner success team directly at partners@labkafe.com or through the reseller portal. You can also reach your dedicated account manager via WhatsApp if you're on the Growth or Enterprise tier.",
+      "Existing partners can reach the partner success team directly at partners@Labscode.com or through the reseller portal. You can also reach your dedicated account manager via WhatsApp if you're on the Growth or Enterprise tier.",
   },
   {
-    question: "Can I visit the Labkafe office for a meeting?",
+    question: "Can I visit the Labscode office for a meeting?",
     answer:
       "Yes, we welcome in-person meetings at any of our four offices (Kolkata, Delhi, Bengaluru, Mumbai). Please write to us at labscode@gmail.com to schedule a meeting and we'll arrange it within 3–5 business days.",
   },
@@ -202,7 +202,7 @@ export default function Contact() {
                 Contact Us
               </h1>
               <p className="text-blue-100/70 text-xl max-w-2xl mx-auto leading-relaxed">
-                Ready to become a Labkafe reseller or have questions about our
+                Ready to become a Labscode reseller or have questions about our
                 programs? Reach out — our team responds within 24 hours.
               </p>
             </motion.div>
@@ -510,7 +510,7 @@ export default function Contact() {
             {/* Map */}
             <div className="rounded-3xl overflow-hidden border border-border/50 shadow-sm h-96">
               <iframe
-                title="Labkafe Office Location"
+                title="Labscode Office Location"
                 src="https://maps.google.com/maps?q=Ambuja+Eco+Centre+Salt+Lake+Sector+V+Kolkata&output=embed"
                 width="100%"
                 height="100%"

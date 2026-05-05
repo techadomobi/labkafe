@@ -26,7 +26,7 @@ const values = [
     icon: Lightbulb,
     title: "Our Vision",
     description:
-      "A future where every school and institution in India has a world-class science lab — built by our reseller network, powered by Labkafe.",
+      "A future where every school and institution in India has a world-class science lab — built by our reseller network, powered by Labscode.",
     color: "bg-indigo-50",
     iconColor: "text-indigo-500",
   },
@@ -42,7 +42,7 @@ const values = [
     icon: Globe,
     title: "Our Reach",
     description:
-      "With 500+ active resellers spread across 28+ states, Labkafe is India's most trusted laboratory solutions partner for resellers.",
+      "With 500+ active resellers spread across 28+ states, Labscode is India's most trusted laboratory solutions partner for resellers.",
     color: "bg-orange-50",
     iconColor: "text-orange-500",
   },
@@ -57,34 +57,34 @@ const teamMembers = [
 
 const aboutFaqs = [
   {
-    question: "When was Labkafe founded?",
+    question: "When was Labscode founded?",
     answer:
-      "Labkafe was founded in 2014 in Kolkata, West Bengal, with the mission of making quality lab infrastructure accessible to every educational institution in India — regardless of size or location.",
+      "Labscode was founded in 2014 in Kolkata, West Bengal, with the mission of making quality lab infrastructure accessible to every educational institution in India — regardless of size or location.",
   },
   {
-    question: "What makes Labkafe different from other lab suppliers?",
+    question: "What makes Labscode different from other lab suppliers?",
     answer:
-      "Unlike traditional suppliers who operate directly, Labkafe has built a pan-India reseller network that allows local partners to serve institutions in their territory. This gives clients a local touch with Labkafe's product quality and support backend. We also combine furniture, equipment, chemicals, and science programs in one ecosystem.",
+      "Unlike traditional suppliers who operate directly, Labscode has built a pan-India reseller network that allows local partners to serve institutions in their territory. This gives clients a local touch with Labscode's product quality and support backend. We also combine furniture, equipment, chemicals, and science programs in one ecosystem.",
   },
   {
-    question: "Is Labkafe only for schools, or for colleges and research institutes too?",
+    question: "Is Labscode only for schools, or for colleges and research institutes too?",
     answer:
-      "Labkafe serves the full institutional spectrum — CBSE/ICSE/state board schools, central universities, IITs and NITs, medical and engineering colleges, research institutes like CSIR labs, and government bodies like DRDO and ISRO.",
+      "Labscode serves the full institutional spectrum — CBSE/ICSE/state board schools, central universities, IITs and NITs, medical and engineering colleges, research institutes like CSIR labs, and government bodies like DRDO and ISRO.",
   },
   {
     question: "What is Project Vigyan?",
     answer:
-      "Project Vigyan is Labkafe's flagship science education initiative. It provides schools and colleges with complete, ready-to-use science lab setups — including Mini Science Labs, Lab-in-a-Box, Robotics Labs, Astronomy Labs, and more — designed to make science education experiential and practical.",
+      "Project Vigyan is Labscode's flagship science education initiative. It provides schools and colleges with complete, ready-to-use science lab setups — including Mini Science Labs, Lab-in-a-Box, Robotics Labs, Astronomy Labs, and more — designed to make science education experiential and practical.",
   },
   {
-    question: "Is Labkafe ISO certified?",
+    question: "Is Labscode ISO certified?",
     answer:
-      "Yes. Labkafe is ISO 9001:2015 certified, GeM-authorized, and NSIC registered. We have also received recognition as India's Best Laboratory Solutions Brand by the Education Excellence Awards for three consecutive years.",
+      "Yes. Labscode is ISO 9001:2015 certified, GeM-authorized, and NSIC registered. We have also received recognition as India's Best Laboratory Solutions Brand by the Education Excellence Awards for three consecutive years.",
   },
   {
-    question: "How can I join the Labkafe team?",
+    question: "How can I join the Labscode team?",
     answer:
-      "We are always looking for passionate individuals in sales, operations, technical support, and education programs. Send your resume to careers@labkafe.com and our HR team will get in touch within 5 business days.",
+      "We are always looking for passionate individuals in sales, operations, technical support, and education programs. Send your resume to careers@Labscode.com and our HR team will get in touch within 5 business days.",
   },
 ];
 
@@ -113,7 +113,7 @@ export default function About() {
                 WHO WE ARE
               </p>
               <h1 className="text-5xl md:text-6xl font-black text-white leading-tight mb-6">
-                About Labkafe
+                About Labscode
               </h1>
               <p className="text-blue-100/70 text-xl max-w-2xl mx-auto leading-relaxed">
                 India's leading laboratory solutions company, empowering educators,
@@ -214,7 +214,7 @@ export default function About() {
         <Clients />
         <Faq
           faqs={aboutFaqs}
-          tag="ABOUT LABKAFE"
+          tag="ABOUT Labscode"
           title="Frequently Asked Questions"
           subtitle="Learn more about our company, certifications, and what makes us the best lab partner in India."
         />

@@ -27,7 +27,7 @@ const vigyanItems = [
   {
     icon: Cpu,
     title: "Robotics & AI Lab",
-    description: "Partner with Labkafe to deliver cutting-edge Robotics and AI labs to modern schools preparing students for Industry 4.0.",
+    description: "Partner with Labscode to deliver cutting-edge Robotics and AI labs to modern schools preparing students for Industry 4.0.",
   },
 ];
 
@@ -153,7 +153,7 @@ export function ProductsServices() {
                   </div>
                 </div>
                 <p className="text-blue-100/80 text-lg leading-relaxed mb-8">
-                  Project Vigyan is a flagship initiative by Labkafe that provides schools and colleges with experiential learning tools to make science education interactive and practical. Partner with us to bring modern science labs to every institution.
+                  Project Vigyan is a flagship initiative by Labscode that provides schools and colleges with experiential learning tools to make science education interactive and practical. Partner with us to bring modern science labs to every institution.
                 </p>
                 <Button
                   size="lg"

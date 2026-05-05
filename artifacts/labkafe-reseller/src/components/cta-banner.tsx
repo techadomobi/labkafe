@@ -50,7 +50,7 @@ export function CtaBanner() {
             </h2>
 
             <p className="text-xl text-blue-100/70 mb-12 max-w-2xl mx-auto leading-relaxed">
-              Join 500+ resellers who are already earning with Labkafe. Zero inventory, full support, real profits — starting today.
+              Join 500+ resellers who are already earning with Labscode. Zero inventory, full support, real profits — starting today.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">

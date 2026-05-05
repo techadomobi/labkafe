@@ -22,7 +22,7 @@ const productFaqs = [
   {
     question: "Do I need to stock products myself?",
     answer:
-      "No. Labkafe maintains all inventory in our centralized warehouses. You take the order from your client, place it through the reseller portal, and we handle fulfilment, packing, and last-mile delivery directly to the institution.",
+      "No. Labscode maintains all inventory in our centralized warehouses. You take the order from your client, place it through the reseller portal, and we handle fulfilment, packing, and last-mile delivery directly to the institution.",
   },
   {
     question: "What is the typical lead time from order to delivery?",
@@ -30,24 +30,24 @@ const productFaqs = [
       "Standard products are delivered within 7–14 business days across India. Custom furniture and large lab setups may take 3–6 weeks depending on specification and site readiness. Urgent orders are handled case-by-case.",
   },
   {
-    question: "Can I white-label Labkafe products under my own brand?",
+    question: "Can I white-label Labscode products under my own brand?",
     answer:
       "Yes. Our custom branding program allows you to put your company logo on packaging, product documentation, and certain equipment models. This gives you the credibility of a manufacturer while keeping overhead zero.",
   },
   {
-    question: "Are Labkafe products eligible for government procurement (GeM)?",
+    question: "Are Labscode products eligible for government procurement (GeM)?",
     answer:
-      "Yes. Labkafe is a registered GeM seller. Many products are GeM-listed and you can facilitate government school and college orders through the GeM portal with Labkafe's full support.",
+      "Yes. Labscode is a registered GeM seller. Many products are GeM-listed and you can facilitate government school and college orders through the GeM portal with Labscode's full support.",
   },
   {
     question: "What is Project Vigyan and how can I sell it?",
     answer:
-      "Project Vigyan is Labkafe's flagship initiative to bring experiential science education to institutions. It includes Mini Science Labs, Lab-in-a-Box, Astronomy Labs, and Robotics Labs. As a reseller you can pitch these turnkey programs to any school or college and earn 12–20% margin on each program sold.",
+      "Project Vigyan is Labscode's flagship initiative to bring experiential science education to institutions. It includes Mini Science Labs, Lab-in-a-Box, Astronomy Labs, and Robotics Labs. As a reseller you can pitch these turnkey programs to any school or college and earn 12–20% margin on each program sold.",
   },
   {
     question: "Do you provide installation and after-sales support?",
     answer:
-      "Absolutely. Labkafe's technical team handles installation and commissioning at the client site. We also offer Annual Maintenance Contracts (AMC) that you can sell as add-ons, giving you a recurring revenue stream.",
+      "Absolutely. Labscode's technical team handles installation and commissioning at the client site. We also offer Annual Maintenance Contracts (AMC) that you can sell as add-ons, giving you a recurring revenue stream.",
   },
 ];
 

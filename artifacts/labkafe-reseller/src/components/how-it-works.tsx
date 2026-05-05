@@ -33,7 +33,7 @@ const steps = [
     number: "04",
     icon: TrendingUp,
     title: "Grow Your Business",
-    description: "Earn competitive margins on every sale. Scale your business by expanding your client base while Labkafe handles all backend operations seamlessly.",
+    description: "Earn competitive margins on every sale. Scale your business by expanding your client base while Labscode handles all backend operations seamlessly.",
     color: "from-orange-400 to-rose-500",
     bg: "bg-orange-50",
     iconColor: "text-orange-500",
@@ -59,7 +59,7 @@ export function HowItWorks() {
               Start Earning in 4 Simple Steps
             </h2>
             <p className="mt-4 text-muted-foreground text-lg">
-              Joining Labkafe's reseller network is fast, straightforward, and completely risk-free.
+              Joining Labscode's reseller network is fast, straightforward, and completely risk-free.
             </p>
           </motion.div>
         </div>

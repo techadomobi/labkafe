@@ -14,7 +14,7 @@ export function Footer() {
                 <div className="w-10 h-10 rounded bg-primary text-white flex items-center justify-center text-2xl">
                   L
                 </div>
-                Labkafe
+                Labscode
               </span>
             </Link>
             <p className="text-blue-100/70 mb-6 leading-relaxed mt-4">
@@ -115,7 +115,7 @@ export function Footer() {
 
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-blue-100/50 text-sm">
-            © 2024 Labkafe. All Rights Reserved.
+            © 2024 Labscode. All Rights Reserved.
           </p>
           <div className="flex gap-6 text-sm text-blue-100/50">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>

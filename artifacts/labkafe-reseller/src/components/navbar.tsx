@@ -42,7 +42,7 @@ export function Navbar() {
               L
             </div>
             <span className={solidNav ? "text-primary" : "text-white"}>
-              Labkafe
+              Labscode
             </span>
           </span>
         </Link>

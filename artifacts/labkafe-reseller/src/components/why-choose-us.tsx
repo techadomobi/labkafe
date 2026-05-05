@@ -32,7 +32,7 @@ const features = [
   {
     icon: ShieldCheck,
     title: "GeM Authorization",
-    description: "Partner with Labkafe for GeM (Government e-Marketplace) authorization, premium lab products, and full installation support for govt. contracts.",
+    description: "Partner with Labscode for GeM (Government e-Marketplace) authorization, premium lab products, and full installation support for govt. contracts.",
     highlight: "Unlock government orders",
     color: "bg-emerald-50",
     iconColor: "text-emerald-600",

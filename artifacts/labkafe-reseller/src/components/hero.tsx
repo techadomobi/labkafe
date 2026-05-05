@@ -141,7 +141,7 @@ export function Hero() {
                   <Building2 className="w-6 h-6 text-white" />
                 </div>
                 <div>
-                  <h3 className="text-2xl font-bold text-white">Come partner with Labkafe</h3>
+                  <h3 className="text-2xl font-bold text-white">Come partner with Labscode</h3>
                   <p className="text-blue-200 text-sm">Register to get started</p>
                 </div>
               </div>

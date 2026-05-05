@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 
 const testimonials = [
   {
-    quote: "Partnering with Labkafe transformed our distribution business. Their zero-inventory model meant we could start selling premium lab products without any upfront capital. Within 6 months, our revenue doubled.",
+    quote: "Partnering with Labscode transformed our distribution business. Their zero-inventory model meant we could start selling premium lab products without any upfront capital. Within 6 months, our revenue doubled.",
     name: "Rajesh Kumar",
     title: "Director",
     company: "Scientific Solutions Pvt Ltd, Delhi",
@@ -13,7 +13,7 @@ const testimonials = [
     color: "from-blue-500 to-primary",
   },
   {
-    quote: "The GeM authorization support from Labkafe opened doors to government school contracts we never thought possible. Their backend team handled everything — logistics, installation, documentation.",
+    quote: "The GeM authorization support from Labscode opened doors to government school contracts we never thought possible. Their backend team handled everything — logistics, installation, documentation.",
     name: "Priya Sharma",
     title: "Founder",
     company: "EduLab Distributors, Bengaluru",
@@ -21,7 +21,7 @@ const testimonials = [
     color: "from-indigo-500 to-purple-600",
   },
   {
-    quote: "What impressed me most was the 24/7 technical support. When a client had issues with equipment installation, Labkafe's team was on-site within 24 hours. That kind of commitment builds trust.",
+    quote: "What impressed me most was the 24/7 technical support. When a client had issues with equipment installation, Labscode's team was on-site within 24 hours. That kind of commitment builds trust.",
     name: "Arun Mehta",
     title: "Managing Partner",
     company: "Lab World Traders, Mumbai",
@@ -61,7 +61,7 @@ export function Testimonials() {
               Hear from Our Resellers
             </h2>
             <p className="mt-4 text-muted-foreground text-lg">
-              Real results from real partners who built successful businesses with Labkafe.
+              Real results from real partners who built successful businesses with Labscode.
             </p>
           </motion.div>
         </div>

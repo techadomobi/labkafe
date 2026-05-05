@@ -12,7 +12,7 @@ const certs = [
   {
     icon: Globe,
     title: "GeM Authorized Seller",
-    body: "Labkafe is an authorized Government e-Marketplace (GeM) seller, enabling resellers to bid for and win government contracts.",
+    body: "Labscode is an authorized Government e-Marketplace (GeM) seller, enabling resellers to bid for and win government contracts.",
     color: "bg-emerald-50",
     iconColor: "text-emerald-600",
   },

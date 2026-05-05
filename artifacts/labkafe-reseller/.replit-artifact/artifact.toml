@@ -1,8 +1,8 @@
 kind = "web"
 previewPath = "/"
-title = "Labkafe Reseller"
+title = "Labscode Reseller"
 version = "1.0.0"
-id = "artifacts/labkafe-reseller"
+id = "artifacts/Labscode-reseller"
 router = "path"
 
 [[integratedSkills]]
@@ -15,11 +15,11 @@ paths = [ "/" ]
 localPort = 19974
 
 [services.development]
-run = "pnpm --filter @workspace/labkafe-reseller run dev"
+run = "pnpm --filter @workspace/Labscode-reseller run dev"
 
 [services.production]
-build = [ "pnpm", "--filter", "@workspace/labkafe-reseller", "run", "build" ]
-publicDir = "artifacts/labkafe-reseller/dist/public"
+build = [ "pnpm", "--filter", "@workspace/Labscode-reseller", "run", "build" ]
+publicDir = "artifacts/Labscode-reseller/dist/public"
 serve = "static"
 
 [[services.production.rewrites]]
